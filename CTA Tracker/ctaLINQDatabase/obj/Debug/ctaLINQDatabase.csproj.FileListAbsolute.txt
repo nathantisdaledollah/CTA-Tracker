@@ -1,0 +1,11 @@
+c:\users\nathan\documents\visual studio 2013\Projects\ctaLINQDatabase\ctaLINQDatabase\bin\Debug\ctaLINQDatabase.exe.config
+c:\users\nathan\documents\visual studio 2013\Projects\ctaLINQDatabase\ctaLINQDatabase\bin\Debug\ctaLINQDatabase.exe
+c:\users\nathan\documents\visual studio 2013\Projects\ctaLINQDatabase\ctaLINQDatabase\bin\Debug\ctaLINQDatabase.pdb
+c:\users\nathan\documents\visual studio 2013\Projects\ctaLINQDatabase\ctaLINQDatabase\obj\Debug\ctaLINQDatabase.csprojResolveAssemblyReference.cache
+c:\users\nathan\documents\visual studio 2013\Projects\ctaLINQDatabase\ctaLINQDatabase\obj\Debug\ctaLINQDatabase.Form1.resources
+c:\users\nathan\documents\visual studio 2013\Projects\ctaLINQDatabase\ctaLINQDatabase\obj\Debug\ctaLINQDatabase.Properties.Resources.resources
+c:\users\nathan\documents\visual studio 2013\Projects\ctaLINQDatabase\ctaLINQDatabase\obj\Debug\ctaLINQDatabase.csproj.GenerateResource.Cache
+c:\users\nathan\documents\visual studio 2013\Projects\ctaLINQDatabase\ctaLINQDatabase\obj\Debug\ctaLINQDatabase.exe
+c:\users\nathan\documents\visual studio 2013\Projects\ctaLINQDatabase\ctaLINQDatabase\obj\Debug\ctaLINQDatabase.pdb
+C:\Users\Nathan\documents\visual studio 2013\Projects\ctaLINQDatabase\ctaLINQDatabase\bin\Debug\CTA.dbml.layout
+C:\Users\Nathan\documents\visual studio 2013\Projects\ctaLINQDatabase\ctaLINQDatabase\bin\Debug\CTA.dbml
